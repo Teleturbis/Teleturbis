@@ -1,4 +1,4 @@
-# Hallo, ich bin Teleturbis! 👋
+# Willkommen im digitalen Abenteuerland! 👋
 
 🚀 Als leidenschaftlicher Webentwickler mit einem ungewöhnlichen Hintergrund in der Altenpflege bringe ich einzigartige Soft Skills mit, die meine technische Arbeit bereichern.
 
