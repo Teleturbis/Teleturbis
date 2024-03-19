@@ -16,7 +16,9 @@
 
 ## 💡 Ziele
 
-Ich zielen darauf ab, benutzerfreundliche und leistungsstarke Webanwendungen zu entwickeln, die einen echten Mehrwert bieten. Ich liebe es, in jedem Projekt, das ich annehme, einen bleibenden Eindruck zu hinterlassen.
+Mein Ziel ist es, innovative Webanwendungen zu entwickeln, die nicht nur benutzerfreundlich, sondern auch leistungsstark sind. Dabei strebe ich stets danach, einen bleibenden Eindruck zu hinterlassen und das Nutzererlebnis zu verbessern.
+
+Als begeisterter Anhänger der Naturwissenschaften, ist es meine Leidenschaft, diese in meine Projekte zu integrieren. Durch Projekte wie [Math-Algorithm-Solutions](#ankername) versuche ich, eine Brücke zwischen theoretischer Mathematik und praktischer Softwareentwicklung zu schlagen, indem ich umfangreiche Sammlungen von mathematischen Algorithmen in nutzbare Anwendungen umwandle.
 
 ---
 
@@ -24,7 +26,7 @@ Ich zielen darauf ab, benutzerfreundliche und leistungsstarke Webanwendungen zu 
 
 ### [Math-Algorithm-Solutions](https://github.com/Teleturbis/Math-Algorithm-Solutions)
 
-Math-Algorithm-Solutions ist ein ambitioniertes Open-Source-Projekt, das eine umfassende Sammlung von mathematischen Algorithmen in TypeScript bereitstellt. Das Ziel des Projekts ist es, eine Vielzahl von Algorithmen aus verschiedenen Bereichen der Mathematik zu implementieren und für Entwickler\*innen zugänglich zu machen.
+[Math-Algorithm-Solutions](#ankername) ist ein ambitioniertes Open-Source-Projekt, das eine umfassende Sammlung von mathematischen Algorithmen in TypeScript bereitstellt. Das Ziel des Projekts ist es, eine Vielzahl von Algorithmen aus verschiedenen Bereichen der Mathematik zu implementieren und für Entwickler\*innen zugänglich zu machen.
 
 **Highlights**:
 
