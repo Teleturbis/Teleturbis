@@ -66,4 +66,4 @@ Versicherungen-Stang ist ein umfassendes Projekt für einen Versicherungsmakler,
 
 ## 📫 Kontakt
 
-Lass uns vernetzen! Für Projektanfragen, Fragen oder zum Austausch erreichst du mich hier auf GitHub oder auf [LinkedIn](https://www.linkedin.com/in/teleturbis).
+Lass uns vernetzen! Für Projektanfragen, Fragen oder zum Austausch erreichst du mich hier auf GitHub oder auf [LinkedIn](https://www.linkedin.com/in/poppe-kevin/).
