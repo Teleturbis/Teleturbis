@@ -16,14 +16,6 @@
 
 ---
 
-## 💡 Ziele
-
-Mein Ziel ist es, innovative Webanwendungen zu entwickeln, die nicht nur benutzerfreundlich, sondern auch leistungsstark sind. Dabei strebe ich stets danach, einen bleibenden Eindruck zu hinterlassen und das Nutzererlebnis zu verbessern.
-
-Als begeisterter Anhänger der Naturwissenschaften, ist es meine Leidenschaft, diese in meine Projekte zu integrieren. Durch Projekte wie Math-Algorithm-Solutions versuche ich, eine Brücke zwischen theoretischer Mathematik und praktischer Softwareentwicklung zu schlagen, indem ich umfangreiche Sammlungen von mathematischen Algorithmen in nutzbare Anwendungen umwandle.
-
----
-
 ## 🔥 Projekte
 
 ### [Versicherungen-Stang](https://dev.versicherungen-stang.de)
