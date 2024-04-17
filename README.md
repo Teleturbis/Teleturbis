@@ -26,25 +26,6 @@ Als begeisterter Anhänger der Naturwissenschaften, ist es meine Leidenschaft, d
 
 ## 🔥 Projekte
 
-### [Math-Algorithm-Solutions](https://github.com/Teleturbis/Math-Algorithm-Solutions)
-
-Math-Algorithm-Solutions ist ein ambitioniertes Open-Source-Projekt, das eine umfassende Sammlung von mathematischen Algorithmen in TypeScript bereitstellt. Das Ziel des Projekts ist es, eine Vielzahl von Algorithmen aus verschiedenen Bereichen der Mathematik zu implementieren und für Entwickler\*innen zugänglich zu machen.
-
-**Highlights**:
-
-- **Breite Auswahl an Algorithmen**: Enthält Implementierungen von klassischen mathematischen Problemen wie Primzahlen, Faktorialisierung, Fibonacci-Folgen und vielem mehr.
-- **Effizienter und lesbarer Code**: Jeder Algorithmus wird sorgfältig entwickelt, um eine optimale Leistung und Lesbarkeit zu gewährleisten.
-- **Einfache Integration**: Die Sammlung ist einfach zu verwenden und kann nahtlos in andere Projekte integriert werden.
-- **Community-Beitrag**: Das Projekt steht allen offen, die ihre eigenen Lösungen hinzufügen oder Verbesserungen vorschlagen möchten.
-
-**Technologien**:
-
-- **TypeScript**: Die Algorithmen sind in TypeScript geschrieben, um Typsicherheit und Codequalität zu gewährleisten.
-- **Jest**: Zur Durchführung von Tests und Sicherstellung der Korrektheit der Implementierungen.
-- **ESLint**: Garantiert einen konsistenten Code-Stil und fördert Best Practices.
-
-Math-Algorithm-Solutions lädt Entwickler\*innen und Mathematik-Enthusiasten dazu ein, sich zu beteiligen, zu lernen und gemeinsam an der Entwicklung und Verbesserung der mathematischen Algorithmen mitzuwirken.
-
 ### [Versicherungen-Stang](https://dev.versicherungen-stang.de)
 
 Versicherungen-Stang ist ein umfassendes Projekt für einen Versicherungsmakler, das eine Website für Jürgen Stang bietet. Das Projekt umfasst Frontend, Backend und ein Content Management System (CMS), das es Jürgen ermöglicht, die Inhalte der Website zu verwalten.
